@@ -1,0 +1,642 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  v2012                                 |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : _7bdb509494-20201222 OPENFOAM=2012
+Arch   : "LSB;label=32;scalar=64"
+Exec   : scalarFoam
+Date   : Sep 30 2026
+Time   : 12:35:41
+Host   : DESKTOP-JU3BLQV
+PID    : 92599
+I/O    : uncollated
+Case   : /home/utkarsh7/OpenFOAM/utkarsh7-v2012/run/project_1/scalarCavity
+nProcs : 1
+trapFpe: Floating point exception trapping enabled (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 5, maxFileModificationPolls 20)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+
+PISO: Operating solver in PISO mode
+
+Reading transportProperties
+
+ Reading scalar filed 's' 
+
+Reading field U
+
+Reading/calculating face flux field phi
+
+
+Starting time loop
+
+Time = 0.005
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.01
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.015
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.02
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.025
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.03
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.035
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.04
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.045
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.05
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.055
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.06
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.065
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.07
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.075
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.08
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.085
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.09
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.095
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.1
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.105
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.11
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.115
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.12
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.125
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.13
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.135
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.14
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.145
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0 s  ClockTime = 0 s
+
+Time = 0.15
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.01 s  ClockTime = 0 s
+
+Time = 0.155
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.01 s  ClockTime = 0 s
+
+Time = 0.16
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.01 s  ClockTime = 0 s
+
+Time = 0.165
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.01 s  ClockTime = 0 s
+
+Time = 0.17
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.01 s  ClockTime = 0 s
+
+Time = 0.175
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.01 s  ClockTime = 0 s
+
+Time = 0.18
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.185
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.19
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.195
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.2
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.205
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.21
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.215
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.22
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.225
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.23
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.235
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.24
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.245
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.25
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.255
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.26
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.265
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.27
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.275
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.28
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.285
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.29
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.295
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.3
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.305
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.31
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.315
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.32
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.325
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.33
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.335
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.34
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.345
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.35
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.355
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.36
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.365
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.37
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.375
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.38
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.385
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.39
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.395
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.4
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.405
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.02 s  ClockTime = 0 s
+
+Time = 0.41
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.415
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.42
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.425
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.43
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.435
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.44
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.445
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.45
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.455
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.46
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.465
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.47
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.475
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.48
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.485
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.49
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.495
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.03 s  ClockTime = 0 s
+
+Time = 0.5
+
+Courant Number mean: 0 max: 0
+smoothSolver:  Solving for s, Initial residual = 0, Final residual = 0, No Iterations 0
+ExecutionTime = 0.04 s  ClockTime = 0 s
+
+End
+
